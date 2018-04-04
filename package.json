@@ -1,0 +1,11 @@
+{
+  "name": "leveldb-exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chrisisler/leveldb-exercises",
+  "author": "chrisisler <christopherisler1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "level": "^3.0.0"
+  }
+}
