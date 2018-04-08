@@ -6,6 +6,8 @@
   "author": "chrisisler <christopherisler1@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "level": "^3.0.0"
+    "level": "^3.0.0",
+    "level-sublevel": "^6.6.1",
+    "multilevel": "^7.2.3"
   }
 }
